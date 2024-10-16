@@ -1,6 +1,6 @@
 # Linked-Lists
 ## Aim
-To implement 
+To study and implement C++ Linked Lists. 
 ## Linked List Operations
 1. Regular Linked List Implementation
 Description:
